@@ -10,3 +10,7 @@ end
 get '/about' do
 	erb :About
 end
+
+get '/visit' do
+	erb :visit
+end
